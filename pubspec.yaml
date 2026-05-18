@@ -1,5 +1,5 @@
 name: twilio_poc
-description: "A new Flutter project."
+description: "Production-grade Flutter native video calling architecture using Twilio SDK, Platform Channels, Android Platform Views, and scalable real-time communication infrastructure."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
